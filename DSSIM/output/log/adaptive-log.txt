@@ -1,0 +1,20 @@
+Statistics for the adaptive model: 
+Tuple info: 
+
+S	id	Tickets: 133455	Selectivity: 0.47912126779556274
+R	id	Tickets: 191790	Selectivity: 0.05864958092570305
+T	id	Tickets: 67271	Selectivity: 0.026657378301024437
+
+************************************
+	<<-- To wrap it up... -->>
+Total predicate time: 0.0
+Total store time: 0.12040000000032049
+Total route time: 0.02273310359993744
+Total computational time: 0.15072834779973424
+
+Total number of initial tuples: 200000
+Total number of inflight tuples: 139298
+Total number of result tuples: 107800
+Total processing time: 7179.746853895483
+System throughput: 15.014456943076127
+************************************
