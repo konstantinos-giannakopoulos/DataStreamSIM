@@ -1,0 +1,22 @@
+Statistics for the static model: 
+Tuple info: 
+
+U	id	Tickets: 0	Selectivity: 0.02059207670390606
+V	id	Tickets: 0	Selectivity: 2.222172770416364E-5
+T	id	Tickets: 0	Selectivity: 1.0
+R	id	Tickets: 0	Selectivity: 1.0
+S	id	Tickets: 0	Selectivity: 1.0
+
+************************************
+	<<-- To wrap it up... -->>
+Total predicate time: 0.0
+Total store time: 0.18059999999927104
+Total route time: 0.0
+Total computational time: 0.3152626200021836
+
+Total number of initial tuples: 300000
+Total number of inflight tuples: 270300
+Total number of result tuples: 86100
+Total processing time: 327.1421033752451
+System throughput: 263.18837933630283
+************************************
