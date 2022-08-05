@@ -1,0 +1,20 @@
+window S 7000
+window R 5000
+window T 4000
+window U 3000
+window V 1000
+//Random-case scenario
+//join S R id
+//join R T id
+//join U V id
+//join U T id
+//Best for the Static
+//join V U id
+//join U T id
+//join T R id
+//join R S id
+//Best for the Adaptive
+join U V id
+join U T id
+join U R id
+join U S id

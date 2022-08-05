@@ -1,0 +1,7 @@
+S,int:id,int:num,string:name
+R,int:id,int:num,string:name
+T,int:id,int:num,string:name
+U,int:id,int:num,string:name
+V,int:id,int:num,string:name
+X,int:id,int:num,string:name
+Y,int:id,int:num,string:name

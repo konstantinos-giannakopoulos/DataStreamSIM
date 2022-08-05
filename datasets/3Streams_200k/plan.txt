@@ -1,0 +1,8 @@
+window S 10000
+window R 6000
+window T 4000
+//select S id > 0
+//select R id > 1
+//This is a comment
+join S R id
+join R T id

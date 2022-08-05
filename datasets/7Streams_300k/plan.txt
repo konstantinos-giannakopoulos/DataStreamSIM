@@ -1,0 +1,24 @@
+window S 3000
+window R 2750
+window T 2500
+window U 2000
+window V 1750
+window X 1500
+window Y 1500
+//Worst for the Adaptive and the Static
+//join S R id
+//join R T id
+//join T U id
+//join U V id
+//Best for the Static
+//join V U id
+//join U T id
+//join T R id
+//join R S id
+//Best for the Adaptive
+join Y X id
+join Y V id
+join Y U id
+join Y T id
+join Y R id
+join Y S id

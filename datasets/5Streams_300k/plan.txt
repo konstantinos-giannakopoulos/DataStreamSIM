@@ -1,0 +1,20 @@
+window S 3500
+window R 2500
+window T 2000
+window U 1500
+window V 500
+//Similar for both
+//join S R id
+//join R T id
+//join U V id
+//join U T id
+//Best for the Static
+//join V U id
+//join U T id
+//join T R id
+//join R S id
+//Best for the Adaptive
+join U V id
+join U T id
+join U R id
+join U S id

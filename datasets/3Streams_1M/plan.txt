@@ -1,0 +1,20 @@
+window S 10000
+window R 6000
+window T 4000
+//select S id > 0
+//select R id > 1
+//This is a comment
+join S R id
+join R T id
+//join S T id
+//join S T num
+//join R T num
+project R id
+//project R num
+//project R name
+project S id 
+//project S num
+//project S name
+project T id
+//project T num 
+//project T name

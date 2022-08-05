@@ -1,0 +1,3 @@
+S,int:id,int:num,string:name
+R,int:id,int:num,string:name
+T,int:id,int:num,string:name

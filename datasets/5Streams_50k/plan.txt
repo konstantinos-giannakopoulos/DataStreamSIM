@@ -1,0 +1,10 @@
+window S 3500
+window R 2500
+window T 2000
+window U 1500
+window V 500
+//This is a comment
+join S R id
+join R T id
+join T U id
+join U V id
